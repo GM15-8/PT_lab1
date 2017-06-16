@@ -1,0 +1,2 @@
+1.TreeSet nie dubluje przechowywanych elementów i dokładnie chodiz o to, że nie przechowuje elementów, które są takie same
+po wykonaniu metody compareTo,czli np.: jeśli porównamy nazwy plików (ich długości) i będą one takie same to elent nie zostanie dodany.
